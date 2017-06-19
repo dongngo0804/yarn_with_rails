@@ -15,5 +15,8 @@
   "theme_color": "#000000",
   "background_color": "#FFFFFF",
   "display": "fullscreen",
-  "orientation": "portrait"
+  "orientation" :"portrait",
+  "gcm_sender_id": "ASDASD",
+  "gcm_user_visible_only": true
+
 }
